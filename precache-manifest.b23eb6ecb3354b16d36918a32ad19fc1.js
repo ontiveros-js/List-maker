@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b1853618af92b2b8c3b2d3dbf668fa9",
+    "revision": "5d4da2505880203cb8efbb5227b10eea",
     "url": "/list-maker/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/list-maker/static/js/3.b7dfee96.chunk.js"
   },
   {
-    "revision": "c9a69c0d23ff576a6cc9",
-    "url": "/list-maker/static/js/main.5b0991b5.chunk.js"
+    "revision": "0c8a1112e1452609a0a3",
+    "url": "/list-maker/static/js/main.d3c87a2c.chunk.js"
   },
   {
     "revision": "a9420087b71cfe0e3861",
